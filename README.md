@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif
+
 I'm LAKSHYA JAIN a passionate  second-year student on a mission to become a top-notch coder 😎. I'm constantly learning and refining my skills, with a deep interest in development. ️<br>
 
 **What drives me? **
