@@ -2,18 +2,18 @@
 
 ![Alt text](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)
 
-I'm LAKSHYA JAIN a passionate  second-year student on a mission to become a top-notch coder 😎. I'm constantly learning and refining my skills, with a deep interest in development. ️<br>
+I'm **LAKSHYA JAIN** a passionate  second-year student on a mission to become a top-notch coder 😎. I'm constantly learning and refining my skills, with a deep interest in development. ️<br>
 
-**What drives me? **
+**What drives me?**
 
 The thrill of tackling challenging problems and crafting creative solutions.<br>
 The collaborative spirit of open source, where I can contribute to projects that make a difference.<br>
 The relentless pursuit of becoming the best coder I can be!<br>
 
-Current areas of focus:<br>
+**Current areas of focus:**<br>
 [![My Skills](https://skillicons.dev/icons?i=cpp,js,python,c,gcp,jquery,npm,git,html,css,bootstrap,tailwind)](https://skillicons.dev)
 <br>
-I am Looking to:
+**I am Looking to:**
 
 Dive deeper into open-source contributions.
 Collaborate with other developers on meaningful projects.
