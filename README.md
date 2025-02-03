@@ -11,7 +11,7 @@ The collaborative spirit of open source, where I can contribute to projects that
 The relentless pursuit of becoming the best coder I can be!<br>
 
 **Current areas of focus:**<br>
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,c,js,python,react,nodejs,express,gcp,jquery,npm,git,html,css,bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,c,js,python,react,nodejs,express,gcp,jquery,npm,git,html,css,bootstrap,tailwind,mongodb,nextjs,postman,postgres)](https://skillicons.dev)
 <br>
 **I am Looking to:**
 
