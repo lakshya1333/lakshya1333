@@ -1,5 +1,8 @@
 ## Hi there 👋
+<img width="498" height="280" alt="image" src="https://github.com/user-attachments/assets/1bb1d35c-f0cc-4e62-85f0-79767e3c2cbb" />
 
+
+<!--
 ![Alt text](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)
 <!--
 I'm **LAKSHYA JAIN** a passionate  second-year student on a mission to become a top-notch coder 😎. I'm constantly learning and refining my skills, with a deep interest in development. ️<br>
